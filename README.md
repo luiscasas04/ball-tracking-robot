@@ -1,3 +1,4 @@
 Ball Tracking Robot
 ______________________________________________________________________________
-The purpose of this robot is to track green balls and ignore all other colors. Using openCV we were able to track green balls using exact specs. The board that was utilized is called a Audrino board. This was coded using C++ and python.
+We built a robot that utilizes the AudrinoUno board in conjunction with OpenCV to locate green pit balls.
+The robot itself was programmed to only find green pitballs and no other color. The success of OpenCV lies where you can specify it to only locate what you ask it to locate and nothing else. Thanks to openCV we were able to design a robot that only tracks the color,shape and size of the item we needed it to track.
